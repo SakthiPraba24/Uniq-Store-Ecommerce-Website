@@ -1,0 +1,96 @@
+{
+    "id": 1,
+        "name": " Frock",
+        "image":"dress2.jpg",
+        "price": 610
+  }
+  {
+    "id": 2,
+    "name": "Men's Shirt",
+    "image":"dress3.jpg",
+    "price": 450
+}
+{
+  "id": 3,
+  "name": "Airpods",
+  "image":"elec1.jpg",
+  "price":1700
+}
+{
+  "id": 4,
+  "name": "Combo Watch",
+  "image":"watch3.jpg",
+  "price": 800
+}
+{
+  "id": 5,
+  "name": "Mouse",
+  "image":"elec4.jpg",
+  "price": 750
+}
+{
+  "id": 6,
+  "name": "Nike shoe",
+  "image":"shoe3.jpg",
+  "price": 1700
+}
+{
+  "id": 7,
+  "name": "Shirt",
+  "image":"dress4.jpg",
+  "price": 800
+}
+{
+  "id": 8,
+  "name": "Kids Wear",
+  "image":"dress6.jpg",
+  "price": 700
+}
+{
+  "id": 9,
+  "name": "SmartWatch",
+  "image":"watch4.jpg",
+  "price": 1999
+}
+{
+  "id": 10,
+  "name": "Headphones",
+  "image":"elec2.jpg",
+  "price": 1500
+}
+{
+  "id": 11,
+  "name": "Formal Shoes",
+  "image":"shoe2.jpg",
+  "price": 899
+}
+{
+  "id": 12,
+  "name": "Footwear",
+  "image":"shoe4.jpg",
+  "price": 799
+}
+{
+  "id": 13,
+  "name": "Girls Gown",
+  "image":"dress5.jpg",
+  "price": 699
+}
+{
+  "id": 14,
+  "name": "Watch",
+  "image":"watch2.jpg",
+  "price": 1299
+}
+{
+  "id": 15,
+  "name": "Combo Bags",
+  "image":"bag2.jpg",
+  "price":599
+}
+{
+  "id": 16,
+  "name": "Sling Bags",
+  "image":"bag4.jpg",
+  "price": 425
+}

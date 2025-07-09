@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/checkout.css">
+    <link rel="icon" type="image" href="./img/logo.jpeg">
+    
+    <title>UNIQ STORE-CheckOut</title>
+</head>
+<body>
+
+    <nav>
+        <div class="navTop">
+            <div class="navItem">
+                <img src="./img/logo.jpeg" height="100" width="100" alt="UNIQ STORE">
+            </div>
+            <div class="navItem">
+                <div class="search">
+                    <input type="text" placeholder="Search for Items" class="searchInput">
+                    <img src="./img/search.png" width="20" height="20" alt="" class="searchIcon">
+                </div>
+            </div>
+            <div class="navItem">
+                <span class="limitedOffer">Limited Offer!</span>
+            </div>
+        </div>
+       
+        <div ul class="navbar">
+            <li><a href="#"><b>HOME</b></a></li>
+            <li><a href="#"><b>ABOUT US</b></a></li>
+            <li><a href="#"><b>PRODUCTS</b></a></li>
+            <li><a href="#"><b>SERVICES</b></a></li>
+        </div>
+    </nav>
+
+    <div class="checkout-container">
+        <h1>Checkout</h1>
+        <form id="checkout-form">
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" id="customerName" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="address">Delivery Address:</label>
+                <input type="text" id="address" name="address" required>
+            </div>
+            <div class="form-group">
+                <label for="phone">Phone Number:</label>
+                <input type="text" id="phone" name="phone" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" id="email" name="customerEmail" required>
+            </div>
+            <div class="form-group">
+                <div class="payment-method">
+                    <label for="payment-method">Payment Method:</label>
+                    <select id="payment-method" name="paymentMethod" required>
+                        <option value="" disabled selected>Select your payment method</option>
+                        <option value="Online">Credit/Debit/UPI</option>
+                        <option value="Cash">Cash on Delivery</option>
+                    </select>
+                </div>
+            </div>
+            <div class="button-container">
+                <button type="submit">Place Order</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="./js/checkout.js"></script>
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer-section about">
+                <img src="./img/logo.jpeg" height="150" width="100" alt="UNIQ STORE">
+            </div>
+            <div class="footer-section links">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="product.html">Products</a></li>
+                    <li><a href="services.html">Our Services</a></li>
+                </ul>
+            </div>
+            <div class="footer-section contact">
+                <h3>Contact Us</h3>
+                <p>Email: support@uniqstore.com</p>
+                <p>Phone: +123 456 7890</p>
+                <p>Address: 103 E-Bazaar Road, Market City, Mumbai, MH 400001, India</p>
+            </div>
+            <div class="footer-section social">
+                <h3>Follow Us</h3>
+                <div class="social-icons">
+                    <a href="#"><img src="img/fb.png" alt="Facebook"></a>
+                    <a href="#"><img src="img/twitter.png" alt="Twitter"></a>
+                    <a href="#"><img src="img/insta.jfif" alt="Instagram"></a>
+                    <a href="#"><img src="img/linkedln.png" alt="LinkedIn"></a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            &copy; 2024 UNIQ STORE | Designed by Uniq Store
+        </div>
+    </footer>
+
+</body>
+</html>
