@@ -22,7 +22,7 @@ Git (optional, for version control)
 
  ### Steps to Run the Project
 ##### 1. Clone the Repository
-   git clone https://github.com/SakthiPraba24/Uniq-Store-Ecommerce-Website.git
+    git clone https://github.com/SakthiPraba24/Uniq-Store-Ecommerce-Website.git
 
 ##### 2. Navigate to the Project Directory
  cd project_folder
@@ -45,11 +45,12 @@ Git (optional, for version control)
 
   Run the server using:
   
-  node server.js
+  ##### node server.js
   
   You should see:
   
   Server is running on port 5000
+  
   Connected to MongoDB
 
 ### Home Page:
