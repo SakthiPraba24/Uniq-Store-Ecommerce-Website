@@ -32,19 +32,23 @@ Git (optional, for version control)
 
 ##### 4. Install Dependencies 
     Run the following command in the terminal to install all required packages:
+    
     npm install
 
 ##### 5.Set Up Environment Variables
   Create a .env file in the root directory and add the following environment variables:
+  
   PORT=5000
   MONGODB_URI=your_mongodb_connection_string
 
 ##### 6.Start the Server
 
   Run the server using:
+  
   node server.js
   
   You should see:
+  
   Server is running on port 5000
   Connected to MongoDB
 
