@@ -7,20 +7,18 @@ Key features include personalized recommendations, robust customer support, and 
 Uniq Store operates on a multi-vendor marketplace model, generating revenue through commissions, subscription plans, and advertising. Committed to customer satisfaction, market expansion, and technological advancement, Uniq Store aims to become a leading player in the ecommerce industry by providing exceptional service and continuously evolving to meet consumer needs.
 This projects uses HTML,CSS, JavaScript,Node JS, MongoDB.
 
-Home Page:
+##Home Page:
 ![home](https://github.com/user-attachments/assets/c02109b8-ddc0-4dc4-858a-e19dea80dc64)
 
 
-Signup Page:
+##Signup Page:
 ![signup](https://github.com/user-attachments/assets/d27d5afd-da62-4733-b06a-ecffc145bd4f)
 
 
 
 ![signup_success](https://github.com/user-attachments/assets/0691779e-78b5-47bf-b113-ddaa0b5506bd)
 
-
-
-Login Page:
+##Login Page:
 ![login](https://github.com/user-attachments/assets/7b5108b6-7ad1-4d4c-9883-b665deec04fd)
 
 
