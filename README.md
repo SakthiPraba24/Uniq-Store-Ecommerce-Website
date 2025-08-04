@@ -21,8 +21,32 @@ Visual Studio Code
 Git (optional, for version control)
 
  ### Steps to Run the Project
-1. Clone the Repository
-   
+##### 1. Clone the Repository
+   git clone https://github.com/SakthiPraba24/Uniq-Store-Ecommerce-Website.git
+
+##### 2. Navigate to the Project Directory
+ cd project_folder
+
+##### 3. Open the Project in VS Code
+ code .
+
+##### 4. Install Dependencies 
+    Run the following command in the terminal to install all required packages:
+    npm install
+
+##### 5.Set Up Environment Variables
+  Create a .env file in the root directory and add the following environment variables:
+  PORT=5000
+  MONGODB_URI=your_mongodb_connection_string
+
+##### 6.Start the Server
+
+  Run the server using:
+  node server.js
+  
+  You should see:
+  Server is running on port 5000
+  Connected to MongoDB
 
 ### Home Page:
 ![home](https://github.com/user-attachments/assets/c02109b8-ddc0-4dc4-858a-e19dea80dc64)
