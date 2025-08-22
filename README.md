@@ -54,36 +54,37 @@ Git (optional, for version control)
   Connected to MongoDB
 
 ### Home Page:
-<img width="500" height="500" alt="order_success" src="https://github.com/user-attachments/assets/9e31633f-acae-4dcf-ad60-863ad2e94106" />
+<img width="600" height="500" alt="order_success" src="https://github.com/user-attachments/assets/9e31633f-acae-4dcf-ad60-863ad2e94106" />
 
 
 ### Signup Page:
-![signup](https://github.com/user-attachments/assets/d27d5afd-da62-4733-b06a-ecffc145bd4f)
+<img width="600" height="500" alt="order_success" src="https://github.com/user-attachments/assets/d27d5afd-da62-4733-b06a-ecffc145bd4f" />
 
-![signup_success](https://github.com/user-attachments/assets/0691779e-78b5-47bf-b113-ddaa0b5506bd)
+<img width="600" height="500" alt="order_success" src="https://github.com/user-attachments/assets/0691779e-78b5-47bf-b113-ddaa0b5506bd" />
 
 ### Login Page:
-![login](https://github.com/user-attachments/assets/7b5108b6-7ad1-4d4c-9883-b665deec04fd)
+<img width="600" height="500" alt="order_success" src="https://github.com/user-attachments/assets/7b5108b6-7ad1-4d4c-9883-b665deec04fd" />
 
-<img width="500" height="500" alt="login_success" src="https://github.com/user-attachments/assets/3cbe1471-556f-46f9-9f5d-0abbdffe04d0" />
+<img width="600" height="500" alt="login_success" src="https://github.com/user-attachments/assets/3cbe1471-556f-46f9-9f5d-0abbdffe04d0" />
 
 ### About Page
-![about](https://github.com/user-attachments/assets/3bca2890-4f13-4a47-8a48-c076d2e09fcc)
+<img width="600" height="500" alt="login_success" src="https://github.com/user-attachments/assets/3bca2890-4f13-4a47-8a48-c076d2e09fcc" />
 
 ### Products Page
-<img width="1920" height="5337" alt="products" src="https://github.com/user-attachments/assets/db316265-cff7-4d20-9383-2e65d98c5225" />
+<img width="600" height="500" alt="products" src="https://github.com/user-attachments/assets/db316265-cff7-4d20-9383-2e65d98c5225" />
 
 ### Cart Page
-![cart](https://github.com/user-attachments/assets/97195e4d-ec22-4fcd-9320-6705c14723ee)
+<img width="600" height="500" alt="checkout" src="https://github.com/user-attachments/assets/97195e4d-ec22-4fcd-9320-6705c14723ee" />
+
 
 ### Checkout Page
-<img width="500" height="500" alt="checkout" src="https://github.com/user-attachments/assets/d73a3b0f-9c8d-45e1-b45a-1ba8f4b967f0" />
+<img width="600" height="500" alt="checkout" src="https://github.com/user-attachments/assets/d73a3b0f-9c8d-45e1-b45a-1ba8f4b967f0" />
 
 ### Order Success Page
-<img width="500" height="500" alt="order_success" src="https://github.com/user-attachments/assets/6f3bf756-1344-4b6e-8f21-b467a83fd543" />
+<img width="600" height="500" alt="order_success" src="https://github.com/user-attachments/assets/6f3bf756-1344-4b6e-8f21-b467a83fd543" />
 
 ### Order Confirmation mail Page
-<img width="500" height="500" alt="order_confirm_mail" src="https://github.com/user-attachments/assets/b77d909a-3521-429a-8f07-b64cdb247667" />
+<img width="600" height="500" alt="order_confirm_mail" src="https://github.com/user-attachments/assets/b77d909a-3521-429a-8f07-b64cdb247667" />
 
 ### Services Page
-<img width="500" height="500" alt="services" src="https://github.com/user-attachments/assets/651ac794-1bd6-4eb1-a2ac-f00054fd9fd1" />
+<img width="600" height="500" alt="services" src="https://github.com/user-attachments/assets/651ac794-1bd6-4eb1-a2ac-f00054fd9fd1" />
