@@ -76,13 +76,13 @@ Git (optional, for version control)
 ![cart](https://github.com/user-attachments/assets/97195e4d-ec22-4fcd-9320-6705c14723ee)
 
 ### Checkout Page
-<img width="1920" height="1752" alt="checkout" src="https://github.com/user-attachments/assets/d73a3b0f-9c8d-45e1-b45a-1ba8f4b967f0" />
+<img width="500" height="500" alt="checkout" src="https://github.com/user-attachments/assets/d73a3b0f-9c8d-45e1-b45a-1ba8f4b967f0" />
 
 ### Order Success Page
-<img width="1920" height="1463" alt="order_success" src="https://github.com/user-attachments/assets/6f3bf756-1344-4b6e-8f21-b467a83fd543" />
+<img width="500" height="500" alt="order_success" src="https://github.com/user-attachments/assets/6f3bf756-1344-4b6e-8f21-b467a83fd543" />
 
 ### Order Confirmation mail Page
-<img width="1920" height="1177" alt="order_confirm_mail" src="https://github.com/user-attachments/assets/b77d909a-3521-429a-8f07-b64cdb247667" />
+<img width="500" height="500" alt="order_confirm_mail" src="https://github.com/user-attachments/assets/b77d909a-3521-429a-8f07-b64cdb247667" />
 
 ### Services Page
-<img width="1920" height="1277" alt="services" src="https://github.com/user-attachments/assets/651ac794-1bd6-4eb1-a2ac-f00054fd9fd1" />
+<img width="500" height="500" alt="services" src="https://github.com/user-attachments/assets/651ac794-1bd6-4eb1-a2ac-f00054fd9fd1" />
