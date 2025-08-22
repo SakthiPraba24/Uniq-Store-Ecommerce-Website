@@ -54,7 +54,8 @@ Git (optional, for version control)
   Connected to MongoDB
 
 ### Home Page:
-![home](https://github.com/user-attachments/assets/c02109b8-ddc0-4dc4-858a-e19dea80dc64)
+<img width="500" height="500" alt="order_success" src="https://github.com/user-attachments/assets/9e31633f-acae-4dcf-ad60-863ad2e94106" />
+
 
 ### Signup Page:
 ![signup](https://github.com/user-attachments/assets/d27d5afd-da62-4733-b06a-ecffc145bd4f)
@@ -64,7 +65,7 @@ Git (optional, for version control)
 ### Login Page:
 ![login](https://github.com/user-attachments/assets/7b5108b6-7ad1-4d4c-9883-b665deec04fd)
 
-<img width="1920" height="1020" alt="login_success" src="https://github.com/user-attachments/assets/3cbe1471-556f-46f9-9f5d-0abbdffe04d0" />
+<img width="500" height="500" alt="login_success" src="https://github.com/user-attachments/assets/3cbe1471-556f-46f9-9f5d-0abbdffe04d0" />
 
 ### About Page
 ![about](https://github.com/user-attachments/assets/3bca2890-4f13-4a47-8a48-c076d2e09fcc)
