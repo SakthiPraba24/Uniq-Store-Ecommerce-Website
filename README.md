@@ -71,7 +71,7 @@ Git (optional, for version control)
 <img width="600" height="500" alt="login_success" src="https://github.com/user-attachments/assets/3bca2890-4f13-4a47-8a48-c076d2e09fcc" />
 
 ### Products Page
-<img width="600" height="500" alt="products" src="https://github.com/user-attachments/assets/db316265-cff7-4d20-9383-2e65d98c5225" />
+<img width="600" height="2500" alt="products" src="https://github.com/user-attachments/assets/db316265-cff7-4d20-9383-2e65d98c5225" />
 
 ### Cart Page
 <img width="600" height="500" alt="checkout" src="https://github.com/user-attachments/assets/97195e4d-ec22-4fcd-9320-6705c14723ee" />
